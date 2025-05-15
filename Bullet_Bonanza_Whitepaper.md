@@ -7,7 +7,7 @@
 
 **Bullet Bonanza** is a fast-paced, multiplayer First-Person Shooter (FPS) game designed by Kiloo. Our CTO aims to bring the thrill of high-stakes competition into the world of Web3 gaming. By seamlessly integrating blockchain technology and $BULLET, our native token, Bullet Bonanza offers players a unique gaming experience where skill, strategy, and risk come together.
 
-With the integration of Web3 wallet connectivity, players can wager $BULLET tokens in matches, participate in weekly tournaments, and compete for leaderboard dominance to earn rewards distributed in $SOL. Bullet Bonanza combines traditional FPS gameplay with innovative blockchain mechanics, offering both gamers and crypto enthusiasts an exciting platform to test their skills and earn valuable rewards.
+With the integration of Web3 wallet connectivity, players can wager $BULLET tokens in matches, participate in weekly tournaments, and compete for leaderboard dominance to earn rewards distributed in $SOL. Our Bullet Bonanza CTO combines traditional FPS gameplay with innovative blockchain mechanics, offering both gamers and crypto enthusiasts an exciting platform to test their skills and earn valuable rewards.
 
 ---
 
@@ -25,7 +25,7 @@ Bullet Bonanza immerses players in a dynamic FPS environment, where they face of
 
 ## **Web3 Integration**
 
-Bullet Bonanza leverages blockchain technology to redefine gaming rewards and participation:
+Our CTO project leverages blockchain technology to redefine gaming rewards and participation:
 
 ### **Wallet Connectivity:**
 - Players connect their Web3 wallets to access the game’s features, including betting, staking, and tracking rewards.
@@ -74,7 +74,7 @@ Bullet Bonanza leverages blockchain technology to redefine gaming rewards and pa
 
 ## **Vision**
 
-Bullet Bonanza aims to redefine the gaming experience by merging the excitement of FPS combat with the financial incentives of blockchain technology. Our vision is to:
+Our CTO project aims to redefine the gaming experience by merging the excitement of FPS combat with the financial incentives of blockchain technology. Our vision is to:
 - Empower players by letting them monetize their skills through $BULLET and $SOL rewards.
 - Build a competitive, player-driven ecosystem where performance and strategy matter.
 - Create a sustainable Web3 gaming platform that bridges the gap between traditional gaming and decentralized finance (DeFi).
@@ -83,7 +83,7 @@ Bullet Bonanza aims to redefine the gaming experience by merging the excitement 
 
 ## **Conclusion**
 
-Bullet Bonanza is not just a game—it’s a groundbreaking fusion of FPS gameplay and blockchain innovation. By introducing $BULLET tokens, Web3 integration, and $SOL rewards, we’re creating an ecosystem that rewards skill, encourages competition, and redefines what it means to play and earn. 
+What we are building is not just a game—it’s a groundbreaking fusion of FPS gameplay and blockchain innovation. By introducing $BULLET tokens, Web3 integration, and $SOL rewards, we’re creating an ecosystem that rewards skill, encourages competition, and redefines what it means to play and earn. 
 
 Join the battle, climb the leaderboards, and claim your rewards in the Bullet Bonanza universe. The game is locked, loaded, and ready for you. Are you ready to take your shot?
 
