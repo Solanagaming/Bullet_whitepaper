@@ -5,7 +5,7 @@
 
 ## **Introduction**
 
-**Bullet Bonanza** is a fast-paced, multiplayer First-Person Shooter (FPS) game designed by Kiloo. Our CTO aims to bring the thrill of high-stakes competition into the world of Web3 gaming. By seamlessly integrating blockchain technology and $BULLET, our native token, Bullet Bonanza offers players a unique gaming experience where skill, strategy, and risk come together.
+**Bullet Bonanza** is a fast-paced, multiplayer First-Person Shooter (FPS) game designed by Kiloo. Our CTO aims to bring the thrill of high-stakes competition into the world of Web3 gaming. By seamlessly integrating blockchain technology on top of Bullet Bonanza and creating $BULLET, our native token.
 
 With the integration of Web3 wallet connectivity, players can wager $BULLET tokens in matches, participate in weekly tournaments, and compete for leaderboard dominance to earn rewards distributed in $SOL. Our Bullet Bonanza CTO combines traditional FPS gameplay with innovative blockchain mechanics, offering both gamers and crypto enthusiasts an exciting platform to test their skills and earn valuable rewards.
 
@@ -50,8 +50,6 @@ Our CTO project leverages blockchain technology to redefine gaming rewards and p
 - Rewards are distributed in $SOL, creating a tangible incentive for skilled players.
 
 ### **Reward System:**
-- **Match Rewards:**
-  - Winners of standard matches double their $BULLET stake.
 - **Tournament Rewards:**
   - A prize pool funded by $BULLET entries and game revenue is distributed to the top-performing players in $SOL.
 - **Leaderboard Recognition:**
@@ -62,8 +60,8 @@ Our CTO project leverages blockchain technology to redefine gaming rewards and p
 ## **Tokenomics**
 
 ### **$BULLET Token Utility:**
-1. **Entry Fees:** Required to participate in matches and tournaments.
-2. **Reward Distribution:** Winners receive doubled $BULLET or share in tournament prize pools.
+1. **Entry Fees:** Required to participate in tournaments.
+2. **Reward Distribution:** Winners receive $BULLET or share in tournament prize pools.
 3. **Game Ecosystem:** Ensures an engaging economy where players’ skills directly impact their earnings.
 
 ### **Sustainability:**
