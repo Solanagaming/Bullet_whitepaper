@@ -5,7 +5,7 @@
 
 ## **Introduction**
 
-**Bullet Bonanza** is a fast-paced, multiplayer First-Person Shooter (FPS) game designed to bring the thrill of high-stakes competition into the world of Web3 gaming. By seamlessly integrating blockchain technology and $BULLET, our native token, Bullet Bonanza offers players a unique gaming experience where skill, strategy, and risk come together.
+**Bullet Bonanza** is a fast-paced, multiplayer First-Person Shooter (FPS) game designed by Kiloo. Our CTO aims to bring the thrill of high-stakes competition into the world of Web3 gaming. By seamlessly integrating blockchain technology and $BULLET, our native token, Bullet Bonanza offers players a unique gaming experience where skill, strategy, and risk come together.
 
 With the integration of Web3 wallet connectivity, players can wager $BULLET tokens in matches, participate in weekly tournaments, and compete for leaderboard dominance to earn rewards distributed in $SOL. Bullet Bonanza combines traditional FPS gameplay with innovative blockchain mechanics, offering both gamers and crypto enthusiasts an exciting platform to test their skills and earn valuable rewards.
 
