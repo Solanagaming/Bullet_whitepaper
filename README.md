@@ -1,5 +1,5 @@
 # Bullet Bonanza Whitepaper
-This repository hosts the official whitepaper for **Bullet Bonanza**, a CTO that aims to integrate Web3 into a free-to-play FPS game with $BULLET tokens and $SOL rewards.
+This repository hosts the official whitepaper for **Bullet Bonanza CTO**, a CTO (community takeover) project that aims to integrate Web3 into a free-to-play FPS game with $BULLET tokens and $SOL rewards.
 
 - [Read the Bullet Bonanza Whitepaper](./Bullet_Bonanza_Whitepaper.md)
 
